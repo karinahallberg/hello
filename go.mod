@@ -1,3 +1,3 @@
-module github.com/karinahallberg/hello.git
+module github.com/karinahallberg/hello
 
 go 1.17
